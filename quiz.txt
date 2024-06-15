@@ -1,0 +1,10 @@
+1.What is the capital of France?;options:[Berlin,Madrid,Paris,Rome];answer:Paris
+2.Which planet is known as the Red Planet?;options:[Mars,Jupiter,Venus,Saturn];answer:Mars
+3.What is the largest mammal on Earth?;options:[Elephant,Blue Whale,Giraffe,Hippopotamus];answer:Blue Whale
+4.In which year did Christopher Columbus reach the Americas?;options:[1492,1601,1776,1832];answer:1492
+5.Who wrote "Romeo and Juliet"?;options:[William Shakespeare,Jane Austen,Charles Dickens,Homer];answer:William Shakespeare
+6.What is the capital of Japan?;options:[Seoul,Beijing,Tokyo,Bangkok];answer:Tokyo
+7.Which programming language is known for its readability and simplicity?;options:[Java,Python,C++,Ruby];answer:Python
+8.What is the chemical symbol for gold?;options:[Au,Ag,Fe,Cu];answer:Au
+9.Who painted the Mona Lisa?;options:[Vincent van Gogh,Leonardo da Vinci,Pablo Picasso, Claude Monet];answer:Leonardo da Vinci
+10.Which of the following is a primary color?;options:[Green,Orange,Blue,Brown];answer:Blue

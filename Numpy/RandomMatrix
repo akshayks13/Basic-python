@@ -1,0 +1,12 @@
+# The `random.random` function generates arrays with random numbers. o random.random([3,3]) will generate the 3x3 matrix
+# array([[ 0.3759652 , 0.58443562, 0.41632997],
+# [ 0.88497654, 0.79518478, 0.60402514], [ 0.65468458, 0.05818105, 0.55621826]])
+
+from numpy import*
+
+a=random.random([3,3])        # Gives a 3 X 3 matrix
+print(a)
+
+
+
+
